@@ -1,7 +1,5 @@
 import { useState, useRef } from "react";
 import { AiOutlineHighlight } from "react-icons/ai";
-import { BsEmojiSmile, BsLink } from "react-icons/bs";
-
 import { ImFontSize, ImTextColor } from "react-icons/im";
 import {
   icons,

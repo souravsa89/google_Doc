@@ -55,7 +55,6 @@
   margin-top: -0.59rem;
   width: 2vw;
   outline: none;
-  opacity: 0;
 }
 .input:hover {
   background-color: rgba(210, 207, 207, 0.2);
