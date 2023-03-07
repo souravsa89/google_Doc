@@ -1,4 +1,4 @@
-.download {
+.container {
   position: fixed;
   cursor: pointer;
   top: 40rem;
@@ -15,7 +15,7 @@
 .downloadBtn {
   margin: auto;
 }
-.upperNav {
+.top_nav {
   /* position: fixed; */
   width: 100%;
   top: 0;
@@ -24,13 +24,13 @@ body {
   background-color: rgb(190, 186, 186, 0.3);
 }
 
-.subMain {
+.bottom_nav {
   display: flex;
   background-color: white;
   gap: 1rem;
   padding: 0.5rem 1rem;
 }
-.subMain sup {
+.bottom_nav sup {
   font-size: 1.3rem;
   font-weight: 400;
   color: rgb(97, 97, 97);

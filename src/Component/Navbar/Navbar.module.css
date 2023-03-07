@@ -1,5 +1,6 @@
 .main_container {
   height: 6vh;
+  width: 100%;
   border: 1px solid rgb(207, 207, 207);
   display: flex;
   justify-content: center;
