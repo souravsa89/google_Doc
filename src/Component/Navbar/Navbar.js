@@ -79,11 +79,10 @@ export default function Navbar({ imgDiv }) {
     let printContents = imgDiv.current.innerHTML;
     console.log(printContents);
     let originalContents = document.body.innerHTML;
-    // console.log(originalContents)
     document.body.innerHTML = printContents;
     window.print();
     document.body.innerHTML = originalContents;
-    // console.log(originalContents)
+
   };
 
   function handleImageOpen() {
